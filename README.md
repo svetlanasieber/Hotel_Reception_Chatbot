@@ -1,3 +1,3 @@
-# Baby ChatBot
-Cool Python Projects
+# Baby Chatbot
+Hotel reception Chatbot
 # Have fun! -> sieberli
