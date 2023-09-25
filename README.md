@@ -1,3 +1,3 @@
-# Baby Chatbot
-Hotel reception Chatbot
-# Have fun! -> sieberli
+
+# Hotel Reception Chatbot
+
