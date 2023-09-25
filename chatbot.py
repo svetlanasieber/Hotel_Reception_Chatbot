@@ -45,10 +45,10 @@ pairs = [
     ],
 ]
 
-# default message at the start of chat
+
 print(colored("Please type in English language to start a conversation. "
       "Type quit and leave.\n\nHi, I'm hotel 'Sunrise' reception BOT\nHow can I help you?", "cyan"))
-# Create Chat Bot
+
 chat = Chat(pairs, reflections)
-# Start conversation
+
 chat.converse()
